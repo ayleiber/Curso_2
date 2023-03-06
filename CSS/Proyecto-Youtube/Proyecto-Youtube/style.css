@@ -127,6 +127,46 @@ nav #barra_debusqueda{
     align-items: center;
 }
 
+#barra_debusqueda input{
+    border: 1px solid #eee;
+    border-radius: 100px 0px 0px 100px;
+    padding: 10px 15px;
+    width: 350px;
+}
+
+#Lupa{
+    border: 1px solid #eee;
+    border-radius: 0px 100px 100px 0px;
+    background: #504f4f;
+    width: 69px;
+}
+
+#Lupa:hover{
+    background: #2c2c2c
+}
+
+#VoiceSearch{
+    border-radius: 100px;
+    background: #636363;
+    width: 44px;
+    margin-left: 15px;
+}
+
+#VoiceSearch:hover{
+    background: #2c2c2c
+}
+
+#treslogosfinales{
+    display: flex;
+    align-items: center;
+    margin-right: 15px;
+}
+
+#treslogosfinales a{
+    margin: 0px 5px;
+}
+
+
 
 
 
